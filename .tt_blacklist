@@ -15,7 +15,6 @@ tools/gatk2
 tools/gemini
 tools/genetrack
 tools/gff3_rebase
-tools/hisat2
 tools/hmmer3
 tools/htseq
 tools/jbrowse
